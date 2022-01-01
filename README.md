@@ -1,3 +1,3 @@
 # my-vim-rc
 
-`:source %` and `:PluginInstall`
+Run 'sh setup.sh'
